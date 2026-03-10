@@ -1,22 +1,27 @@
-# UAE Construction Regulations — Dubai
+# Нормативные документы строительства — Дубай / ОАЭ
 
-Key regulatory documents package for construction in Dubai / UAE.
+Пакет ключевых регуляторных документов по строительству в эмирате Дубай.
 
-**[Open the document navigator (00_CONTENTS.html)](00_CONTENTS.html)** — download the file and open in your browser to see the full interactive guide with descriptions and download links.
+## Как пользоваться
 
-## Contents
+1. **Скачайте файл** [00_CONTENTS.html](00_CONTENTS.html) (нажмите на него, затем кнопку Download)
+2. **Откройте его в браузере** (Safari, Chrome, Firefox)
+3. Вы увидите описание каждого документа и синие кнопки **«Скачать PDF»**
+4. Нажимайте кнопки — PDF скачиваются сразу
 
-| # | Category | Document | PDF |
-|---|----------|----------|-----|
-| 01 | Building Code | Decree 45/2021 | included |
-| 01 | Building Code | DBC 2021 (full) | see instructions |
-| 02 | Energy Efficiency | Al Sa'fat v2.0 | included |
-| 03 | Building Permits | Admin Resolution 37/2021 | included |
-| 04 | Zoning | Local Order 2/1999 | included |
-| 05 | Engineering Practice | Admin Resolution 253/2021 | included |
-| 06 | Fire Safety | UAE Fire Code 2017 | see instructions |
-| 07 | Contractor Licensing | Law 7/2025 | see instructions |
+## Что внутри
 
-**5 PDF included** in the repository. 3 large documents require manual download — see 00_CONTENTS.html for instructions.
+| # | Раздел | Документ |
+|---|--------|----------|
+| 01 | Строительный кодекс | Decree 45/2021 (декрет) + DBC 2021 (полный кодекс, 500+ стр.) |
+| 02 | Энергоэффективность | Al Sa'fat — система зелёного строительства |
+| 03 | Разрешения на строительство | Administrative Resolution 37/2021 |
+| 04 | Зонирование | Local Order 2/1999 — классификация земель |
+| 05 | Инженерная деятельность | Administrative Resolution 253/2021 — квалификация инженеров |
+| 06 | Пожарная безопасность | UAE Fire and Life Safety Code 2017 |
+| 07 | Лицензирование подрядчиков | Law 7/2025 (новый закон) |
 
-Version 2.3 | March 2026
+**8 документов**, все со ссылками на скачивание PDF.
+
+---
+Версия 2.4 | Март 2026
